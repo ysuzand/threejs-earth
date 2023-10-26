@@ -10,7 +10,7 @@
     "start": "parcel index.html"
   },
   "devDependencies": {
-    "@parcel/transformer-image": "2.0.0-rc.0",
+    "@parcel/transformer-image": "^2.10.1",
     "parcel": "^2.5.0"
   }
 }
